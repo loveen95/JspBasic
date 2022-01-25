@@ -28,7 +28,8 @@
      session.invalidate();
      //getid()
      String _session = session.getId();
-   
+     //getAttribute()
+     //Enumeratrion<string> test= session.getAttributeNames();
   %>
 <!DOCTYPE html>
 <html>
